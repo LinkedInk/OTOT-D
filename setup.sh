@@ -5,6 +5,8 @@ brew install kafka #auto installed zookeeper for me
 
 #start zookeeper
 zkServer start
+#to stop
+#zkServer stop
 
 #start kafka
 kafka-server-start /home/linuxbrew/.linuxbrew/etc/kafka/server.properties

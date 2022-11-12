@@ -10,3 +10,7 @@ zkServer start
 
 #start kafka
 kafka-server-start /home/linuxbrew/.linuxbrew/etc/kafka/server.properties
+
+#need to manually add the file used before running the following command
+#file is in github repo
+#kafka-server-start /home/linuxbrew/.linuxbrew/etc/kafka/server1.properties
